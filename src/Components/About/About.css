@@ -1,0 +1,27 @@
+.about-content {
+  max-width: 750px;
+  margin: 0 auto;
+  background-color: var(--bg-card);
+  padding: 36px 40px;
+  border-radius: var(--radius-md);
+  border: 1px solid var(--border-color);
+  box-shadow: var(--shadow-sm);
+  text-align: center;
+}
+
+.about-content p {
+  font-size: 1.05rem;
+  color: var(--text-muted);
+  line-height: 1.7;
+  margin-bottom: 16px;
+}
+
+.about-content p:last-child {
+  margin-bottom: 0;
+}
+
+@media (max-width: 576px) {
+  .about-content {
+    padding: 24px 20px;
+  }
+}

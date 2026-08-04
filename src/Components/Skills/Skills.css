@@ -1,0 +1,25 @@
+.skills-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 14px;
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.skill-badge {
+  background-color: var(--bg-card);
+  border: 1px solid var(--border-color);
+  color: var(--text-main);
+  padding: 10px 20px;
+  border-radius: var(--radius-sm);
+  font-size: 0.95rem;
+  font-weight: 600;
+  box-shadow: var(--shadow-sm);
+  transition: border-color var(--transition);
+}
+
+.skill-badge:hover {
+  border-color: var(--accent-primary);
+  color: var(--accent-primary);
+}
