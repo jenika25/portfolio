@@ -14,7 +14,7 @@ function About() {
 
         <div className="about-content">
           <p>
-            I'm Eliott, a freelance designer and frontend developer based in Paris with 5 years of experience shipping digital products for startups, agencies, and scale-ups across Europe.
+            I'm Jenika, a freelance designer and frontend developer based in Paris with 5 years of experience shipping digital products for startups, agencies, and scale-ups across Europe.
           </p>
           <p>
             I believe great interfaces are invisible — they get out of the user's way. My work is fast, accessible, and built to last. When I'm not coding, you'll find me hiking or hunting for a good espresso.

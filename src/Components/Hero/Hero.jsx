@@ -7,7 +7,7 @@ function Hero() {
     <section className="hero section" id="home">
       <div className="container hero-container">
         <div className="hero-text">
-          <h1>Hi, I'm Eliott</h1>
+          <h1>Hi, I'm Jenika</h1>
           <h2>Freelance UI/UX Designer & Frontend Developer</h2>
           <p>
             I design and build clean, simple, and fast websites.
@@ -36,7 +36,7 @@ function Hero() {
         </div>
 
         <div className="hero-image-box">
-          <img src={primg} alt="Eliott" />
+          <img src={primg} alt="Jenika" />
         </div>
       </div>
     </section>

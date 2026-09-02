@@ -8,7 +8,7 @@ function Navbar() {
     <header className="navbar">
       <div className="container nav-container">
         <a href="#home" className="logo">
-          Eliott
+          Jenika
         </a>
 
         <nav className={`nav-menu ${isOpen ? 'active' : ''}`}>
